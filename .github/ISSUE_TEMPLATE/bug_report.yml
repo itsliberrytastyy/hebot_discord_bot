@@ -77,6 +77,6 @@ body:
       description: |
         Copy the exact text of any message, or attach a screenshot. Useful places to look:
 
-        - the red line at the top of the Hebot picker
-        - the DSH's card in `hebot.dsh` (the **Errors** button)
-        - the page console: press F12 on the hebot tab, open **Console**, then repeat the step that fails 
+        - the red line at the top of the hustle picker
+        - the DSH's card in `hustle.dsh` (the **Errors** button)
+        - the page console: press F12 on the hustcontrols tab, open **Console**, then repeat the step that fails 
