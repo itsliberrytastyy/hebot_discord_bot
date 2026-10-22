@@ -1,5 +1,5 @@
 name: Bug report
-description: The extension does not install, the DSH button is missing, or a DSH does not post.
+description: The extension does not install, the dsh button is missing, or a DSH does not post.
 labels: ["bug"]
 body:
   - type: markdown
